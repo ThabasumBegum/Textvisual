@@ -1,1 +1,6 @@
+My name is Thabasum, and I'm an AI enthusiast pursuing a degree in AI/ML.
+Passionate about AI-driven projects, I'm eager to explore AI techniques and develop my technical skills.
+To put my knowledge into practice, I've started experimenting with projects on Google Colab. 
+ I'm passionate about harnessing AI techniques to develop technical skills and explore AI courses.
+My goal is to master AI and ML techniques and tools to contribute to innovative solutions
 
